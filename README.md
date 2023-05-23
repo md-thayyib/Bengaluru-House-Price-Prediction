@@ -119,3 +119,14 @@ print(get_estimated_price("Kalhalli", 1000, 2, 2))  # other location
 ## Note:
 - You can find the Jupyter notebook and the data used to train the model inside the notebook folder.
 - If you want to host the app in a cloud you can do it by selecting any cloud and follow the procedure to do that. Then change the host names accordingly
+
+
+
+### How I completed this
+
+Credit for this project goes to [codebasics](https://www.youtube.com/@codebasics).
+1. I followed codebasics' tutorial and learned all the concepts required for this project.
+2. I reproduced the Jupyter notebook (.ipynb) and all the script files (.py) on my own without copying and pasting the code.
+3. Once the project was successfully executed, I copied the HTML, JavaScript, and CSS files.
+4. I utilized ChatGPT to customize the HTML file according to my requirements.
+
