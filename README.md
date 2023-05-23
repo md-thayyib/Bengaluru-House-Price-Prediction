@@ -29,8 +29,15 @@ To run this project locally, follow these steps:
 
 4. Open your web browser and go to `http://localhost:5000` to access the application.
 
-## UI Open
+## You have to options. Either you can use api end points or you can open `app.html` file to view the ui. 
 
+## APP UI
+![Image](client/Screenshot 2023-05-23 at 13.28.09.png)
+
+To use the ui app
+open the html file in a browser
+
+`client/app.html`
 
 
 ## API Endpoints
